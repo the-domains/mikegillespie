@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T17:06:18.013Z'
-dateModified: '2016-02-29T17:06:16.846Z'
+datePublished: '2016-02-29T17:10:51.346Z'
+dateModified: '2016-02-29T17:10:44.048Z'
 title: Finally on The Grid
 author: []
 sourcePath: _posts/2016-02-29-finally-on-the-grid.md
@@ -31,4 +31,4 @@ Means this little pocket of the web is likely for me to write, crosspost, and hu
 
 So buckle up!
 
-[0]: thegrid.io
+[0]: https://thegrid.io/#26077
