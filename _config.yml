@@ -1,0 +1,28 @@
+name: mikegillespie
+favicon: null
+layout_spectrum: 0.9560074650216848
+typography_spectrum: 0.04618696169927716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9875343542080373
+  lightness: 0.21377717657014728
+  saturation: 0.5975267579779029
+  rhythmicContrast: 0.5228536396753043
+purpose: []
