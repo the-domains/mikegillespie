@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T15:00:54.607Z'
-dateModified: '2016-02-29T15:00:29.485Z'
+datePublished: '2016-02-29T16:55:12.516Z'
+dateModified: '2016-02-29T15:01:01.600Z'
 title: Finally on The Grid
 author: []
+sourcePath: _posts/2016-02-29-finally-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-finally-on-the-grid.md
-published: true
 url: finally-on-the-grid/index.html
 _type: Article
 
