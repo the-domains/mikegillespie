@@ -1,7 +1,7 @@
-name: mikegillespie
+name: Mike Gillespie
 favicon: null
-layout_spectrum: 0.9560074650216848
-typography_spectrum: 0.04618696169927716
+layout_spectrum: 0.54656
+typography_spectrum: 0.60265
 title: Test driving AI web design
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9875343542080373
-  lightness: 0.21377717657014728
-  saturation: 0.5975267579779029
-  rhythmicContrast: 0.5228536396753043
+    - '#03080b'
+    - '#2b2f32'
+    - '#685c50'
+    - '#4d463e'
+    - '#9f8f81'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
