@@ -17,8 +17,8 @@ keywords:
   - must
   - canadian
 description: "So you're an indie filmmaker in Toronto, and you keep wondering \"How the hell do I get some f*cking money for my movie?\" Well you've come to the right place. I'm going to show you all the places you can get funding, along with the specific deadlines, and exact links for where to apply to your investors, below."
-datePublished: '2016-03-04T17:16:16.264Z'
-dateModified: '2016-03-04T17:15:40.535Z'
+datePublished: '2016-03-04T17:48:20.374Z'
+dateModified: '2016-03-04T17:16:25.321Z'
 author:
   - name: Curt
     url: 'http://indiefilmto.com/author/curtdbz/'
@@ -26,14 +26,14 @@ author:
 related: []
 app_links: []
 title: How To Get Funding (updated 2016 Guide)
+sourcePath: _posts/2016-03-04-how-to-get-funding-updated-2016-guide.md
+published: true
 authors: []
 publisher:
   name: Indiefilmto
   domain: indiefilmto.com
   url: 'http://indiefilmto.com'
   favicon: null
-sourcePath: _posts/2016-03-04-how-to-get-funding-updated-2016-guide.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
