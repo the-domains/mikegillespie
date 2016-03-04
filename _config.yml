@@ -1,6 +1,6 @@
 name: Mike Gillespie
 favicon: null
-layout_spectrum: 0.74287
+layout_spectrum: 0.87027
 typography_spectrum: 0.3163
 title: Test driving AI web design
 cta:
@@ -22,8 +22,8 @@ color:
     - '#0c0b10'
     - '#f9af64'
     - '#b6521d'
-  brandStrength: 0.125
-  lightness: 0.75
+  brandStrength: 0.25
+  lightness: 0.5625
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
